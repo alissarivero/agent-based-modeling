@@ -1,0 +1,31 @@
+{
+  "grid": 110,
+  "n_triplets": 5,
+  "density_means": [
+    0.25,
+    0.35,
+    0.45,
+    0.55,
+    0.65
+  ],
+  "landscape_seed": 20260918,
+  "grf_smooth_sigma": 18.0,
+  "grf_rough_sigma": 5.0,
+  "files": {
+    "triplet0_smooth.npz": "8da561b04b08b27f037650fb80784e532fc5e043778ebaa64384e30e4a2fc1dc",
+    "triplet0_rough.npz": "9b4f6fb04838b2ab1d8b3075869b61792da60cc4a611477763d0b2d900aee1b4",
+    "triplet0_random.npz": "00599549622cc4abe3b1eed88bb6a4922222fd5f4c8195f214d9eacf818cb8ae",
+    "triplet1_smooth.npz": "28de99f0d2471aa1943180649d95af5c6b8fe7fd8919d36de5e84e4e06a3125d",
+    "triplet1_rough.npz": "6dc8e8100a318f33e0931f30455ea23e185d2f70b2e0633518bc5329b2516e30",
+    "triplet1_random.npz": "669d9025c20e97d5c3a00bcc8ec5b2fb10776e6ef9904f88bebc407f0b56d935",
+    "triplet2_smooth.npz": "cd666266f5c0bd3231919826beae68a80a7ab52118d6448378845fc138b7591f",
+    "triplet2_rough.npz": "49e2bfb9b9b8e4006edd44fc31ab410ec9c8c7ae823e3540de90a1b00f6398d4",
+    "triplet2_random.npz": "5f48b7e47866b48caabee4697e9078f3ff71649dd512e0c0dc594ff75ca65026",
+    "triplet3_smooth.npz": "ccc981ae6bea81915d683589e30b91e369d0ff9f1f1bd5512ad891014dc8b87c",
+    "triplet3_rough.npz": "d66ff8c8d27395c7e480cc4f0633b5a209b5591e90abdfe5bc96bea7a676d4c0",
+    "triplet3_random.npz": "3ab0439dd26742314dcb7aa115a8bbc2b71657e6c0cdd2b908a615524551387e",
+    "triplet4_smooth.npz": "458cdd14ee55d2e9a7caea29bb61d0f862d281561b0db7a770987658b1614392",
+    "triplet4_rough.npz": "c80542da77a3c5c6fa6e36e86958277488173f9d80daa89cfe049513721d5143",
+    "triplet4_random.npz": "42dcdf91345f44be4bc6c72ee10f302ffb4a353df46ca5e18b6e95dd21d70f3f"
+  }
+}

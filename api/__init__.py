@@ -1,0 +1,1 @@
+"""FastAPI lab server."""
